@@ -1,3 +1,7 @@
 This is a created file that i am modifying
 
 AND HOW SEE WHAT WE HAVE UPDATED
+
+Now lets clone and add things to the repo
+
+grow and see that life is awesome
