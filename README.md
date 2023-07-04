@@ -8,3 +8,6 @@ https://docs.google.com/spreadsheets/d/1tCD6pM0PB-MZ4K_3S7YQwJYDvdum8Hcd5kfyAPF6
 S/N	BUSINESS NAME	PERSONAL NAME	DATE SIGNED UP	EMAIL	PHONE NO	REASON/REPONSE
 
 is it possible to even create one things here now
+smsthedtis
+
+this is  a test
